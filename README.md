@@ -14,7 +14,7 @@ https://github.com/iamjawa/zork-py/blob/master/zork.py
 ## Development Environment
 
 Using `Visual Studio Code`
-Input Ctrl + Alt + N or press F1 & select Run Code.
+Input `Ctrl + Alt + N` or press `F1` & select `Run Code`.
 
 On `Python 3`
-Run the module by pressing F5
+Run the module by pressing `F5`
